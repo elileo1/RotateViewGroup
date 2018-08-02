@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <cn.leo.rotateviewgroup.RotateViewGroup
+        android:id="@+id/rotateViewGroup"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:src="@drawable/item"
+            android:layout_width="130dp"
+            android:layout_height="130dp"/>
+        <ImageView
+            android:src="@drawable/item2"
+            android:layout_width="130dp"
+            android:layout_height="130dp"/>
+        <ImageView
+            android:src="@drawable/item3"
+            android:layout_width="130dp"
+            android:layout_height="130dp"/>
+        <ImageView android:src="@drawable/item4"
+            android:layout_width="130dp"
+            android:layout_height="130dp" />
+
+    </cn.leo.rotateviewgroup.RotateViewGroup>
+
+
+</RelativeLayout>
