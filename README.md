@@ -14,14 +14,6 @@ gif：
 
 >copy the file [RotateViewGroup.java](https://github.com/fanrunqi/RotateViewGroup/tree/master/app/src/main/java/cn/leo/rotateviewgroup) in your project.
 
-## manifests
-
->add this in your acticity
-
-```
-android:screenOrientation="landscape"
-```
-
 ## layout
 
 >set like this
@@ -50,7 +42,7 @@ android:screenOrientation="landscape"
     </cn.leo.rotateviewgroup.RotateViewGroup>
 ```
 
-## layout
+## activity
 
 >set Callback event
 
@@ -70,6 +62,13 @@ RotateViewGroup rotateViewGroup = findViewById(R.id.rotateViewGroup);
                 toast("click:"+i);
             }
         });
+```
+## manifests
+
+>if need add this in your acticity
+
+```
+android:screenOrientation="landscape"
 ```
 
 **The source code logic is simple, do not need more instructions**.
