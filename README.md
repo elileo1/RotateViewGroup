@@ -71,7 +71,7 @@ RotateViewGroup rotateViewGroup = findViewById(R.id.rotateViewGroup);
 android:screenOrientation="landscape"
 ```
 
-**The source code logic is simple, do not need more instructions**.
+**simple life , easy code**.
 
 # License
 > Copyright 2018 fanrunqi
