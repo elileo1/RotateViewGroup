@@ -6,7 +6,7 @@ Carousel effect with sticky sliding, smooth zooming, selection and click events.
 
 gif：
 
-<img src="https://raw.githubusercontent.com/fanrunqi/RotateViewGroup/master/app/2.gif" width = "540" height = "275"  />
+<img src="https://raw.githubusercontent.com/fanrunqi/RotateViewGroup/master/app/2.gif" width = "704" height = "459"  />
 
 # Usage
 
